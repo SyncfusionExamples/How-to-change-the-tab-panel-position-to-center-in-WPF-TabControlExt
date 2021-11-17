@@ -116,3 +116,5 @@ In TabControlExt the tab panel position can be changed using style. In the below
         </syncfusion:TabControlExt>
     </Grid>
     </Window>
+
+KB article - [How to change the tab panel position of TabControlExt to center](https://www.syncfusion.com/kb/11238/how-to-change-the-tab-panel-tabitem-headers-position-to-center-in-wpf-tabcontrol)
